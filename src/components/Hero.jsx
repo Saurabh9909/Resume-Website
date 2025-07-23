@@ -14,7 +14,6 @@ function Hero() {
           <p className="text-text-secondary mb-8 text-lg">
             Empowering businesses with data-driven insights and strategic planning.
           </p>
-          <h2 className="text-2xl md:text-3xl text-primary font-semibold mb-6">Data Scientist</h2>
           <div className="flex space-x-4">
             <a href="#contact" className="btn-primary">
               Contact Me
